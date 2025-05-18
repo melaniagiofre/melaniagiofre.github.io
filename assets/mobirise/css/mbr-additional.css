@@ -3953,7 +3953,7 @@ a {
   margin-top: auto !important;
 }
 .cid-uLzFotrKpU .mbr-section-title {
-  color: #232323;
+  color: #4479d9;
 }
 .cid-uLzFotrKpU .mbr-text,
 .cid-uLzFotrKpU .mbr-section-btn {
@@ -3965,4 +3965,7 @@ a {
 .cid-uLzFotrKpU .item-subtitle {
   text-align: left;
   color: #353535;
+}
+.cid-uLzFotrKpU .mbr-section-subtitle {
+  color: #e6c63b;
 }
